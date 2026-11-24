@@ -1,3 +1,5 @@
+<p align="center"><img src=".github/logo.png" width="112" alt="Crow Chinese Reader logo"></p>
+
 # crow-reader-legal
 
 GitHub Pages site for `reader.hanzidesk.com`.
